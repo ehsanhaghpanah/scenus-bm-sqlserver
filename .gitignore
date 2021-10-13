@@ -8,6 +8,10 @@
 /Core/Base/Corn/obj
 /Core/Common/Corn/bin
 /Core/Common/Corn/obj
+
+/Data/DB/bin
+/Data/DB/obj
+
 /Test/Renegade/bin
 /Test/Renegade/obj
 /packages
